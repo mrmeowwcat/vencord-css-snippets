@@ -6,7 +6,8 @@ A library where I keep some Vencord CSS Snippets (taken from the Vencord Server)
 > [!IMPORTANT]
 > I am NOT claiming this work to be of my property. I will credit all the authors/contributors.
 
-# CSS Snippets Authors and Other Resources
+# Credits
+## CSS Snippets Authors and Other Resources
 <!---
 Format:
 - [CSS Snippet Name](link of it in this repo)
