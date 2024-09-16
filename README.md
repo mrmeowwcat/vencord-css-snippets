@@ -4,7 +4,7 @@ A library where I keep some Vencord CSS Snippets (taken from the Vencord Server)
 > This is not a library: a collection of code.
 
 > [!IMPORTANT]
-> I am NOT claiming this work to be of my property. All the credits can be found [here](/README.md#credits)
+> I am NOT claiming this work to be of my property. All the credits can be found [here](/README.md#credits).
 
 # Credits
 ## CSS Snippets Authors and Other Resources
