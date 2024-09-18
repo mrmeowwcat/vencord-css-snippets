@@ -1,0 +1,37 @@
+@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
+
+[class*="vatar"],
+[class^="border_"],
+foreignObject[mask*="vatar"],
+foreignObject[mask*="url(#uid_"],
+foreignObject[mask*="url(#:r"] {
+  mask: none !important;
+  border-radius: 10% !important;
+}
+
+[class^="avatarDecoration_"]
+{
+  display: none !important;
+}
+
+:root {
+  --rs-small-spacing: 2px; 
+  --rs-medium-spacing: 3px;
+  --rs-large-spacing: 6px; 
+
+  --rs-small-width: 2px;
+  --rs-medium-width: 3px;
+  --rs-large-width: 2px; 
+
+  --rs-avatar-shape: 10%;
+
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a; 
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75; 
+  --rs-streaming-color: #643da7; 
+  --rs-invisible-color: #636b75; 
+  --rs-phone-color: var(--rs-online-color);
+
+  --rs-phone-visible: block; 
+}
