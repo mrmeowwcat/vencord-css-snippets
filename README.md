@@ -6,6 +6,15 @@ A library where I keep some Vencord CSS Snippets (taken from the Vencord Server)
 > [!IMPORTANT]
 > I am NOT claiming this work to be of my property. All the credits can be found [here](/README.md#credits).
 
+# How to Apply
+It is very simple to apply a CSS Snippet to your Vencord. All you have to do is:
+1. Make sure you have Vencord installed
+
+      * 1.1. You may download it from [here](https://vencord.dev/download) if you don't have it already installed.
+2. Head over to User Settings > Vencord > Themes
+   ![](/img/howtoapply_step1.png)
+   
+
 # Credits
 ## CSS Snippets Authors and Other Resources
 <!---
