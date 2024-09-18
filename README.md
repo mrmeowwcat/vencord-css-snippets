@@ -22,6 +22,6 @@ Format:
   * Author: [@krammeth](https://discord.com/users/519220048850583567)
   * [Original Post of the CSS Snippet](https://discord.com/channels/1015060230222131221/1028106818368589824/1283087085519241313)
 
-- [RadialStatus](/css-snippets/status-hider.css)
+- [RadialStatus](/css-snippets/RadialStatus.css)
   * Author: [@y8x7](https://discord.com/users/1135087432967131227)
   * [Original Post of the CSS Snippet](https://discord.com/channels/1015060230222131221/1285996003589357579/1285996617996046386)
