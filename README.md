@@ -1,7 +1,7 @@
 # Vencord CSS Snippets
 A library where I keep some Vencord CSS Snippets (taken from the Vencord Server) so It's easier to apply them if you want multiple of them at the same time.
 > [!NOTE]
-> This is not a library: a collection of code.
+> This is not a code library (i.e. Python)
 
 > [!IMPORTANT]
 > I am NOT claiming this work to be of my property. All the credits can be found [here](/README.md#credits).
